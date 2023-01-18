@@ -2,7 +2,7 @@
 
 ### Hola, soy {{ Fernando Hernandez }}}  
 <div align="center">
-<img src="https://media.comicbook.com/2021/03/black-clover-1262419.jpeg?auto=webp" align="center" style="width: 100%" />
+<img src="https://media.comicbook.com/2021/03/black-clover-1262419.jpeg?auto=webp" align="center" style="width: 50%" />
 </div>  
   
 
