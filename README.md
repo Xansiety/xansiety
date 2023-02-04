@@ -113,9 +113,11 @@
 <img src="https://komarev.com/ghpvc/?username=xansiety&&style=flat-square" align="center" />
 </div>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xansiety&show_icons=true&locale=en&layout=compact" alt="xansiety" /></p>
+<div align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xansiety&show_icons=true&locale=en&layout=compact" alt="xansiety" />
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xansiety&" alt="xansiety" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xansiety&" alt="xansiety" />
+  </div>
 
 
 <br />
