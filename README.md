@@ -114,9 +114,7 @@
 </div>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xansiety&show_icons=true&locale=en&layout=compact" alt="xansiety" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xansiety&show_icons=true&locale=en" alt="xansiety" /></p>
-
+ 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xansiety&" alt="xansiety" /></p>
 
 
