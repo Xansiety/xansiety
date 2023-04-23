@@ -37,10 +37,10 @@ Trato de estar siempre a la vanguardia con las nuevas tecnologías y pulir mis h
 - 🔭 Actualmente estoy construyendo mi portafolio 🦾  
   
 
-- 🌱 Actualmente estoy aprendiendo animaciones con CSS, y estudiando nuevos temas en react 🔷  
+- 🌱 Actualmente estoy expandiendo mis conocimientos en REACT, para no usar useMemo 🔷  
   
 
-- ❓ Puedes preguntarme sobre .NET y Vue.JS 💚, con gusto te puedo ayudar  
+- ❓ Puedes preguntarme sobre .NET, Vue.JS y React 💚, con gusto te puedo ayudar  
   
 
 - ⚡ Fun fact: Odiaba programar durante toda la carrera.  
