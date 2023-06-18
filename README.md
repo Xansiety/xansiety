@@ -34,10 +34,10 @@ Trato de estar siempre a la vanguardia con las nuevas tecnologías y pulir mis h
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Actualmente estoy construyendo mi portafolio 🦾  
+- 🔭 Actualmente estoy aprendiendo Angular 🦾  
   
 
-- 🌱 Actualmente estoy expandiendo mis conocimientos en REACT, para no usar useMemo 🔷  
+- 🌱  Estoy trabajando en una app que me permita llevar un registro de mis rutinas y comidas, tambien quiero empezar a crear una aplicación para crear Notas🔷  
   
 
 - ❓ Puedes preguntarme sobre .NET, Vue.JS y React 💚, con gusto te puedo ayudar  
