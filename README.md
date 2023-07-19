@@ -84,7 +84,7 @@ export const technologiesList: ITechnologies = {
   ],
   libraries: ['React'],
   frameworks: ['.Net', 'Vue JS', 'Express JS', 'Bootstrap'],
-  databases: ['SQL', 'MongoDB', 'MySql', 'Postgres']
+  databases: ['SQL', 'MongoDB', 'MySql', 'Postgres'],
   tools: ['VS Code', 'Visual Studio', 'Docker', 'Postman'],
   extras: ['Redux Toolkit', 'Tailwind CSS', 'MUI', 'Azure', 'Firebase', 'Quasar'],
   learn: ['Solid Principies', 'Clean Code', 'Tailwind CSS', 'Styled Components', 'Laravel 9', 'Angular 15+', 'Desing Patterns']
