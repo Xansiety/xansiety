@@ -20,30 +20,31 @@
 
 
 
-### ¿Quién soy?  
-Soy un simple desarrollador :)
+### Who am I? 
+Hi, I'm Fernando, a simple web developer since 2019.
 
-He sido desarrollador full stack por más de 3 años, en los cuales he podido desarrollar sitios y aplicaciones con las cuales no solo he trabajado con un solo lenguaje de programación y me encanta.
- 
-Trato de estar siempre a la vanguardia con las nuevas tecnologías y pulir mis habilidades actuales.  
+I specialize mainly in Frontend development, where I use leading technologies such as React, Vue, and recently Angular, in its latest versions. With which my goal is to create scalable, efficient and reliable applications that offer an optimal user experience. In addition, my experience in Backend development, using technologies such as .NET, complements my skill set and allows me to build robust solutions.
   
 
 <br/>  
 
+Here my [https://www.fernando-hernandez.tech](Website ✨👽)
+
+<br/>
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Actualmente estoy aprendiendo Angular 🦾  
+- 🔭 I am currently learning Angular 🦾  
   
 
-- 🌱  Estoy trabajando en una app que me permita llevar un registro de mis rutinas y comidas, tambien quiero empezar a crear una aplicación para crear Notas🔷  
+- 🌱  I am working on an app that will allow me to keep track of my routines and meals, I also want to start creating an application to create Notes. 🔷  
   
 
-- ❓ Puedes preguntarme sobre .NET, Vue.JS y React 💚, con gusto te puedo ayudar  
+- ❓ You can ask me about .NET, Vue.JS and React 💚, I'll be glad to help you.  
   
 
-- ⚡ Fun fact: Odiaba programar durante toda la carrera.  
+- ⚡ Fun fact: I hated programming throughout my career.  
 
 
 </td><td valign="top" width="50%">
@@ -83,8 +84,8 @@ export const technologiesList: ITechnologies = {
     'SASS',
   ],
   libraries: ['React'],
-  frameworks: ['.Net', 'Vue JS', 'Express JS', 'Bootstrap'],
-  databases: ['SQL', 'MongoDB', 'MySql', 'Postgres'],
+  frameworks: ['.Net', 'Vue JS', 'Express JS', 'Bootstrap','Angular'],
+  databases: ['SQL', 'MongoDB', 'MySql'],
   tools: ['VS Code', 'Visual Studio', 'Docker', 'Postman'],
   extras: ['Redux Toolkit', 'Tailwind CSS', 'MUI', 'Azure', 'Firebase', 'Quasar'],
   learn: ['Solid Principies', 'Clean Code', 'Tailwind CSS', 'Styled Components', 'Laravel 9', 'Angular 15+', 'Desing Patterns']
