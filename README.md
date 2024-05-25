@@ -28,7 +28,7 @@ I specialize mainly in Frontend development, where I use leading technologies su
 
 <br/>  
 
-Here my [Website ✨👽](https://www.fernando-hernandez.tech)
+Here my [Website ✨👽](https://www.fernando-hernandez.dev)
 
 <br/>
 
@@ -50,7 +50,8 @@ Here my [Website ✨👽](https://www.fernando-hernandez.tech)
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media.comicbook.com/2021/03/black-clover-1262419.jpeg?auto=webp" align="center" style="width: 100%" />
+<img src="![image](https://github.com/Xansiety/xansiety/assets/61808587/1de166fd-a650-47f6-8da2-72a913b0ada9)
+" align="center" style="width: 100%" />
 </div>  
 
 
