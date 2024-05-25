@@ -50,8 +50,7 @@ Here my [Website ✨👽](https://www.fernando-hernandez.dev)
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="![image](https://github.com/Xansiety/xansiety/assets/61808587/1de166fd-a650-47f6-8da2-72a913b0ada9)
-" align="center" style="width: 100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2R2NHN4ejJkNnk3b2JiYjNobzE3NjFheHZ5YmZ5YnVrYzljeWhmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1IynFUeOif20g/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
 
