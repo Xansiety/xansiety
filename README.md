@@ -41,7 +41,7 @@ Here my [Website ✨👽](https://www.fernando-hernandez.dev)
 - 🌱  I am working on an app that will allow me to keep track of my routines and meals, I also want to start creating an application to create Notes. 🔷  
   
 
-- ❓ You can ask me about .NET, Vue.JS and React 💚, I'll be glad to help you.  
+- ❓ You can ask me about .NET, Vue.JS, React and Angular, I'll be glad to help you.  
   
 
 - ⚡ Fun fact: I hated programming throughout my career.  
@@ -68,9 +68,11 @@ export interface ITechnologies {
   languages: ILanguages[];
   libraries: ILibrary[];
   frameworks: IFrameworks[];
+  style: IStyle[];
   databases: IDatabases[];
   tools: ITools[];
-  extras: IExtras[];  
+  cloud: ICloud[];
+  devops: IDevops[]; 
   learn: ILearn[];
 }
 
@@ -78,17 +80,17 @@ export const technologiesList: ITechnologies = {
   languages: [
     'C#'
     'TypeScript',
-    'JavaScript',
-    'Html',
+    'JavaScript'
     'CSS',
-    'SASS',
   ],
   libraries: ['React'],
-  frameworks: ['.Net', 'Vue JS', 'Express JS', 'Bootstrap','Angular'],
-  databases: ['SQL', 'MongoDB', 'MySql'],
+  frameworks: ['.Net', 'Vue JS', 'Express JS','Angular', 'NestJS', 'NextJS'],
+  style: ['TailwindCSS', 'Bootstrap', 'Styled Components', 'SASS',' MUI']
+  databases: ['Microsoft SQL', 'MySQL', 'PosgresSQL'],
   tools: ['VS Code', 'Visual Studio', 'Docker', 'Postman'],
-  extras: ['Redux Toolkit', 'Tailwind CSS', 'MUI', 'Azure', 'Firebase', 'Quasar'],
-  learn: ['Solid Principies', 'Clean Code', 'Tailwind CSS', 'Styled Components', 'Laravel 9', 'Angular 15+', 'Desing Patterns']
+  cloud: ['Azure'],
+  devops: ['GitHub Actions'],  
+  learn: ['Solid Principies', 'Clean Code', 'Tailwind CSS', 'Styled Components', 'Desing Patterns']
 };
 ```
  
@@ -107,21 +109,13 @@ export const technologiesList: ITechnologies = {
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
+<br/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Xansiety&&style=flat-square" align="center" />
 </div>  
   
 
-<br/>  
-
-
-<br />
+<br/>   
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
