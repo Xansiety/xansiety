@@ -85,7 +85,7 @@ export const technologiesList: ITechnologies = {
   ],
   libraries: ['React'],
   frameworks: ['.Net', 'Vue JS', 'Express JS','Angular', 'NestJS', 'NextJS'],
-  style: ['TailwindCSS', 'Bootstrap', 'Styled Components', 'SASS',' MUI']
+  style: ['TailwindCSS', 'Bootstrap', 'Styled Components', 'SASS',' MUI'],
   databases: ['Microsoft SQL', 'MySQL', 'PosgresSQL'],
   tools: ['VS Code', 'Visual Studio', 'Docker', 'Postman'],
   cloud: ['Azure'],
