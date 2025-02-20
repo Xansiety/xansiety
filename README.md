@@ -35,7 +35,7 @@ Here my [Website ✨👽](https://www.fernando-hernandez.dev)
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I am currently learning Angular 🦾  
+- 🔭 I am currently learning Python 🐍
   
 
 - 🌱  I am working on an app that will allow me to keep track of my routines and meals, I also want to start creating an application to create Notes. 🔷  
