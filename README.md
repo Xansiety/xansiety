@@ -1,5 +1,4 @@
 ## Hey 👋, I'm  {{ Fernando Hernandez }} 
-  
 
 <a href="https://github.com/xansiety" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -26,11 +25,13 @@ Hi, I'm Fernando, a simple web developer since 2019.
 I specialize mainly in Frontend development, where I use leading technologies such as React, Vue, and recently Angular, in its latest versions. With which my goal is to create scalable, efficient and reliable applications that offer an optimal user experience. In addition, my experience in Backend development, using technologies such as .NET, complements my skill set and allows me to build robust solutions.
   
 
-<br/>  
+<p align="center">
+  🌐 Check out my <a href="https://www.fernando-hernandez.dev" target="_blank">Website ✨👽</a>
+</p>
 
-Here my [Website ✨👽](https://www.fernando-hernandez.dev)
-
-<br/>
+<p align="center">
+  💻 Want to see my professional GitHub: <a href="https://github.com/fernando-hdz" target="_blank">Fernando Hernández</a>
+</p>
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
@@ -41,7 +42,7 @@ Here my [Website ✨👽](https://www.fernando-hernandez.dev)
 - 🌱  I am working on an app that will allow me to keep track of my routines and meals, I also want to start creating an application to create Notes. 🔷  
   
 
-- ❓ You can ask me about .NET, Vue.JS, React and Angular, I'll be glad to help you.  
+- ❓ You can ask me about Angular, .NET, React and Vue.js I'll be glad to help you.  
   
 
 - ⚡ Fun fact: I hated programming throughout my career.  
@@ -62,7 +63,7 @@ Here my [Website ✨👽](https://www.fernando-hernandez.dev)
 ## Languages and Tools  
 
 ```ts
-import { ILanguages, ILibrary, IFrameworks, IExtras, IDatabases, ITools , ILearn } from '@/models';
+import { ILanguages, ILibrary, IFrameworks, IExtras, IDatabases, ITools , ILearn, IExtras } from '@/models';
 
 export interface ITechnologies {
   languages: ILanguages[];
@@ -74,6 +75,7 @@ export interface ITechnologies {
   cloud: ICloud[];
   devops: IDevops[]; 
   learn: ILearn[];
+  extras: IExtras[];
 }
 
 export const technologiesList: ITechnologies = {
@@ -81,16 +83,17 @@ export const technologiesList: ITechnologies = {
     'C#'
     'TypeScript',
     'JavaScript'
-    'CSS',
+    'CSS'
   ],
   libraries: ['React'],
-  frameworks: ['.Net', 'Vue JS', 'Express JS','Angular', 'NestJS', 'NextJS'],
+  frameworks: ['Angular', '.Net', 'Vue JS', 'Express JS'],
   style: ['TailwindCSS', 'Bootstrap', 'Styled Components', 'SASS',' MUI'],
   databases: ['Microsoft SQL', 'MySQL', 'PosgresSQL'],
   tools: ['VS Code', 'Visual Studio', 'Docker', 'Postman'],
   cloud: ['Azure'],
-  devops: ['GitHub Actions'],  
-  learn: ['Solid Principies', 'Clean Code', 'Tailwind CSS', 'Styled Components', 'Desing Patterns']
+  devops: ['GitHub Actions'],
+  learn: ['Tailwind CSS', 'NestJS', 'NextJS', 'Python', 'FastAPI' ],
+  extras: ['Desing Patterns', 'S.O.L.I.D Principles']
 };
 ```
  
