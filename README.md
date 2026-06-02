@@ -1,124 +1,60 @@
-## Hey 👋, I'm  {{ Fernando Hernandez }} 
+<div align="center">
 
-<a href="https://github.com/xansiety" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/ferando543" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/xansiety" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/xansiety" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/luis-fernando-h-130288175/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+# Hey, I'm Fernando 👋
 
+### Software Engineer
 
+*Crafting products from idea to production — frontend, backend, and everything in between.*
 
-### Who am I? 
-Hi, I'm Fernando, a simple web developer since 2019.
+</div>
 
-I specialize mainly in Frontend development, where I use leading technologies such as React, Vue, and recently Angular, in its latest versions. With which my goal is to create scalable, efficient and reliable applications that offer an optimal user experience. In addition, my experience in Backend development, using technologies such as .NET, complements my skill set and allows me to build robust solutions.
-  
+---
 
-<p align="center">
-  🌐 Check out my <a href="https://www.fernando-hernandez.dev" target="_blank">Website ✨👽</a>
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Xansiety&show_icons=true&count_private=true&hide_border=true&hide_title=true" width="420" />
 
-<p align="center">
-  💻 Want to see my professional GitHub: <a href="https://github.com/fernando-hdz" target="_blank">Fernando Hernández</a>
-</p>
+**About me**
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+I'm a Software Engineer with a full-stack mindset. I care deeply about clean architecture, solid abstractions, and writing code that makes the next engineer's life easier — even when that engineer is future me.
 
-- 🔭 I am currently learning Python 🐍
-  
+By day I build things that actually ship. By night I'm probably refactoring something that was already working fine.
 
-- 🌱  I am working on an app that will allow me to keep track of my routines and meals, I also want to start creating an application to create Notes. 🔷  
-  
+Currently building **Progressly** — a tool to help you track progress across your courses and learning goals, because too many courses end up at 47% forever.
 
-- ❓ You can ask me about Angular, .NET, React and Vue.js I'll be glad to help you.  
-  
+> ⚡ *Fun fact: I hated programming throughout my career... and now I can't stop.*
 
-- ⚡ Fun fact: I hated programming throughout my career.  
+---
 
+**Tech I work with**
 
-</td><td valign="top" width="50%">
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
 
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2R2NHN4ejJkNnk3b2JiYjNobzE3NjFheHZ5YmZ5YnVrYzljeWhmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1IynFUeOif20g/giphy.gif" align="center" style="width: 100%" />
-</div>  
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xansiety&hide_border=true&layout=compact" width="340" />
 
-</td></tr></table>  
+</div>
 
-<br/>  
+---
 
-
-## Languages and Tools  
-
-```ts
-import { ILanguages, ILibrary, IFrameworks, IExtras, IDatabases, ITools , ILearn, IExtras } from '@/models';
-
-export interface ITechnologies {
-  languages: ILanguages[];
-  libraries: ILibrary[];
-  frameworks: IFrameworks[];
-  style: IStyle[];
-  databases: IDatabases[];
-  tools: ITools[];
-  cloud: ICloud[];
-  devops: IDevops[]; 
-  learn: ILearn[];
-  extras: IExtras[];
-}
-
-export const technologiesList: ITechnologies = {
-  languages: [
-    'C#'
-    'TypeScript',
-    'JavaScript'
-    'CSS'
-  ],
-  libraries: ['React'],
-  frameworks: ['Angular', '.Net', 'Vue JS', 'Express JS'],
-  style: ['TailwindCSS', 'Bootstrap', 'Styled Components', 'SASS',' MUI'],
-  databases: ['Microsoft SQL', 'MySQL', 'PosgresSQL'],
-  tools: ['VS Code', 'Visual Studio', 'Docker', 'Postman'],
-  cloud: ['Azure'],
-  devops: ['GitHub Actions'],
-  learn: ['Tailwind CSS', 'NestJS', 'NextJS', 'Python', 'FastAPI' ],
-  extras: ['Desing Patterns', 'S.O.L.I.D Principles']
-};
-```
- 
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xansiety&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Xansiety&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Xansiety&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>   
+[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/xansiety)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-h-130288175/)
+[![Website](https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white)](https://www.fernando-hernandez.dev)
+[![Dev.to](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/xansiety)
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+*Building products at [Arata Labs](https://github.com/xansiety)*
+
+</div>
